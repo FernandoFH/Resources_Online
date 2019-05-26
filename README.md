@@ -1,14 +1,38 @@
 # Resources
 Lista de recursos valiosos
 
+### Herramientas 
+- https://htmlcompressor.com/compressor/
+- http://www.json-generator.com/
+- https://cssauthor.com/free-mockup-templates-psd-designs/
+
+### Img 
+- http://placehold.it/#
+- http://www.freepik.com/
+- http://thestocks.im/
+- https://www.pexels.com/
+- https://unsplash.com/
+- https://www.foodiesfeed.com/
+- http://imcreator.com/free
+
+### Videos 
+- http://mazwai.com/#/
+- https://www.pexels.com/videos/
+- https://www.videvo.net
+- https://www.clipcanvas.com/free-footage
+- https://www.videezy.com/
+- https://www.vidsplay.com/
+
 ### Iconos
 - https://fontawesome.com/
+- http://www.iconspedia.com/
 
 ### Fuentes 
 - https://fonts.google.com/
 
 ### Colores 
 - https://color.adobe.com/create/color-wheel/
+- https://color.hailpixel.com/
 
 ### HTML 
 - https://allthetags.com/
@@ -16,11 +40,13 @@ Lista de recursos valiosos
 ### CSS
 - [normalize.css](https://necolas.github.io/normalize.css/)
 - [animate.css](https://daneden.github.io/animate.css/)
+- http://css3generator.com/
 - https://hakim.se/
 
 ### Favicon 
 - [favicon](https://www.favicon-generator.org)
 - https://www.flaticon.com
+- http://realfavicongenerator.net/
 
 ### Logo 
 - [Logo](https://looka.com/)
