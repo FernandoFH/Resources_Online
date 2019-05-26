@@ -1,11 +1,11 @@
 # Resources_Online
 Lista de recursos valiosos
 
-https://fontawesome.com/
-https://fonts.google.com/
+- https://fontawesome.com/
+- https://fonts.google.com/
 
 ### HTML 
-https://allthetags.com/
+- https://allthetags.com/
 
 ### CSS
 - [normalize.css](https://necolas.github.io/normalize.css/)
