@@ -8,7 +8,7 @@ Lista de recursos valiosos
 - https://fonts.google.com/
 
 ### Colores 
-https://color.adobe.com/create/color-wheel/
+- https://color.adobe.com/create/color-wheel/
 
 ### HTML 
 - https://allthetags.com/
