@@ -1,8 +1,14 @@
 # Resources_Online
 Lista de recursos valiosos
 
+### Iconos
 - https://fontawesome.com/
+
+### Fuentes 
 - https://fonts.google.com/
+
+### Colores 
+https://color.adobe.com/create/color-wheel/
 
 ### HTML 
 - https://allthetags.com/
