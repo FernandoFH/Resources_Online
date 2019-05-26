@@ -24,6 +24,7 @@ Lista de recursos valiosos
 
 ### Logo 
 - [Logo](https://looka.com/)
+- https://worldvectorlogo.com
 
 ### Animate Js
 - [animejs](https://animejs.com/)
