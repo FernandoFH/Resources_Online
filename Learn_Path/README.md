@@ -1,5 +1,5 @@
 ## 27/05/19
->>> MongoDB Week 1 :: 🕑
+  - MongoDB Week 1 🕑
 
 ✔️ :: Listo 
 🕑 :: Programado 
