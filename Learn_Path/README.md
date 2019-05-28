@@ -3,7 +3,7 @@
   - Unit 1.0: Welcome and the History of C  🕑
   
 + Introduction to Satellite Communications
-  - SEMANA 1: Satellites at our service  🕑
+  - Semana #1: Satellites at our service  🕑
   
  ----
 ### Jun 04, 2019
