@@ -15,20 +15,19 @@ Lista de recursos valiosos
 - https://www.foodiesfeed.com/
 - http://imcreator.com/free
 
-## Audio 
+### Audio 
 - https://freemusicarchive.org/
 - https://icons8.com/music/
 - https://samplefocus.com/
 - https://freesound.org/
 - https://openmusiclibrary.org/
-
 - https://archive.org/
 - https://www.youtube.com/audiolibrary/music
 
-## Masterizacion 
+### Masterizacion 
 - https://auphonic.com/
 
-## AudioGrafias 
+### AudioGrafias 
 - https://www.headliner.app
 
 ### Videos 
