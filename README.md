@@ -57,6 +57,13 @@ Lista de recursos valiosos
 - [animate.css](https://daneden.github.io/animate.css/)
 - http://css3generator.com/
 - https://hakim.se/
+- ImageHover.css
+- Hint.css
+- Skeleton
+- mini.css
+
+### Loading
+- Loading.io
 
 ### Favicon 
 - [favicon](https://www.favicon-generator.org)
