@@ -1,4 +1,4 @@
-[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
+[You Don't know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 [Eloquent JavaScript]: http://eloquentjavascript.net/
 [Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
 [Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
