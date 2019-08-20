@@ -1,5 +1,6 @@
 # Resources
 Lista de recursos valiosos
+https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 
 ### Herramientas 
 - https://htmlcompressor.com/compressor/
