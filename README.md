@@ -15,6 +15,7 @@ https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 - https://unsplash.com/
 - https://www.foodiesfeed.com/
 - http://imcreator.com/free
+- https://imgur.com/
 
 ### Audio 
 - https://freemusicarchive.org/
