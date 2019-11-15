@@ -14,8 +14,6 @@
 
 [Appdelante](https://appdelante.com/cursos)
 
-[TheSchoolAI](https://www.theschool.ai/courses/decentralized-application/)
-
 [Oraclize](https://docs.oraclize.it)
 
 [Cryptozombies](https://cryptozombies.io/)
