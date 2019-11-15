@@ -8,8 +8,6 @@
 
 [JavaScript & jQuery](http://javascriptbook.com/)
 
-[Get Job ready - JavaScript Edition](https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md)
-
 [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path)
 
 [Freecodecamp](https://learn.freecodecamp.org/)
