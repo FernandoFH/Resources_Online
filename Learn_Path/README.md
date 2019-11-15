@@ -1,3 +1,56 @@
+##### Build websites & Web Developer.
+
+# 1 Learn HTML : Get started as a web developer by learning the basics of HTML, the essential language of the web.
+# 2 CSS & Styling a Website: Learn and practice the fundamentals of CSS to add beautiful styling to your webpages.
+- CSS Modules
+- Colors and Typography
+- Layout and Positioning
+- Responsive Design and Accessibility
+- Flexbox and CSS Transitions
+- After effects particles & Smoke
+- CSS slide top menu
+
+# 3 How to Build Websites on Your Own Computer: Get setup to build websites on your own computer!
+
+4 Getting Started with JavaScript
+Learn the fundamentals of JavaScript: syntax, variables, conditionals, and functions.
+Learn the Document Object Model, the interface between JavaScript and HTML elements, and combine HTML, CSS, and JavaScript into exciting interactive sites!
+- Arrays, Loops, and Objects
+- Headless Browsers and Protocol Buffer
+
+5 Finishing Touches and Publishing a Website
+Put the finishing touches on your websites with Font Awesome and icons and assets, and then publish them for the world to see!
+
+6 Learn How to Build Websites Capstone Project
+In this final project for the Learn How To Build Websites path, you ll bring all of your new skills together to make a polished website.
+
+7 Intermediate JavaScript
+Learn more techniques to extend your JavaScript knowledge including reusable classes, splitting code into modules, and making HTTP requests.
+
+8 Learn the Command Line
+Discover the power of this simple yet essential text-based tool and increase your productivity as a developer.
+
+9 Learn Git
+Learn to save and manage different versions of your code projects with this essential tool.
+
+10 Building Front-end Applications with React
+Learn to build dynamic and powerful web apps using React.js, a component-based front-end framework.
+
+11 JavaScript Back-End Development
+Learn how to create back-end servers and APIs in JavaScript using the popular Express.js framework.
+
+12 SQL and Databases for Web Development
+Learn the SQL fundamentals needed to be a successful full-stack web developer.
+
+13 Building a Persistent API
+Learn the Node-SQLite to connect JS and SQL in web apps, and build your first fully-integrated back-end application.
+- Appdelente (APIs) 
+
+14 Test-Driven Development with JavaScript
+Master the fundamentals of Test-Driven Development to create reliable full-stack JavaScript web applications.
+
+___
+
 [You Don't know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
 [Eloquent JavaScript](http://eloquentjavascript.net/)
