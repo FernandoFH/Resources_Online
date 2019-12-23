@@ -1,7 +1,8 @@
 ## Build websites & Web Developer.
 
-#### 1 Learn HTML : Get started as a web developer by learning the basics of HTML, the essential language of the web.
-#### 2 CSS & Styling a Website: Learn and practice the fundamentals of CSS to add beautiful styling to your webpages.
+#### 1 Learn HTML : 
+- Get started as a web developer by learning the basics of HTML, the essential language of the web.
+#### 2 CSS & Styling a Website:
 - CSS Modules
 - Colors and Typography
 - Layout and Positioning
