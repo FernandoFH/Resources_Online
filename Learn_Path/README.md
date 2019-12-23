@@ -16,17 +16,27 @@
 - Interactive sites!
 - Arrays, Loops, and Objects
 - Headless Browsers and Protocol Buffer
-##### 5 Finishing Touches and Publishing a Website: Put the finishing touches on your websites with Font Awesome and icons and assets, and then publish them for the world to see!
-##### 6 Learn How to Build Websites Capstone Project: In this final project for the Learn How To Build Websites path, you ll bring all of your new skills together to make a polished website.
-##### 7 Intermediate JavaScript: Learn more techniques to extend your JavaScript knowledge including reusable classes, splitting code into modules, and making HTTP requests.
-##### 8 Learn the Command Line: Discover the power of this simple yet essential text-based tool and increase your productivity as a developer.
-##### 9 Learn Git: Learn to save and manage different versions of your code projects with this essential tool.
-##### 10 Building Front-end Applications with React: Learn to build dynamic and powerful web apps using React.js, a component-based front-end framework.
-##### 11 JavaScript Back-End Development: Learn how to create back-end servers and APIs in JavaScript using the popular Express.js framework.
-##### 12 SQL and Databases for Web Development :Learn the SQL fundamentals needed to be a successful full-stack web developer.
-##### 13 Building a Persistent API: Learn the Node-SQLite to connect JS and SQL in web apps, and build your first fully-integrated back-end application.
+##### 5 Finishing Touches and Publishing a Website: 
+- Put the finishing touches on your websites with Font Awesome and icons and assets, and then publish them for the world to see!
+##### 6 Learn How to Build Websites Capstone Project: 
+- In this final project for the Learn How To Build Websites path, you ll bring all of your new skills together to make a polished website.
+##### 7 Intermediate JavaScript: 
+- Learn more techniques to extend your JavaScript knowledge including reusable classes, splitting code into modules, and making HTTP requests.
+##### 8 Learn the Command Line: 
+- Discover the power of this simple yet essential text-based tool and increase your productivity as a developer.
+##### 9 Learn Git: 
+- Learn to save and manage different versions of your code projects with this essential tool.
+##### 10 Building Front-end Applications with React: 
+- Learn to build dynamic and powerful web apps using React.js, a component-based front-end framework.
+##### 11 JavaScript Back-End Development: 
+- Learn how to create back-end servers and APIs in JavaScript using the popular Express.js framework.
+##### 12 SQL and Databases for Web Development:
+- Learn the SQL fundamentals needed to be a successful full-stack web developer.
+##### 13 Building a Persistent API: 
+- Learn the Node-SQLite to connect JS and SQL in web apps, and build your first fully-integrated back-end application.
 - Appdelente (APIs) 
-##### 14 Test-Driven Development with JavaScript: Master the fundamentals of Test-Driven Development to create reliable full-stack JavaScript web applications.
+##### 14 Test-Driven Development with JavaScript: 
+- Master the fundamentals of Test-Driven Development to create reliable full-stack JavaScript web applications.
 
 ___
 
