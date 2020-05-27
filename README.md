@@ -1,5 +1,5 @@
-# Resources
-Lista de recursos valiosos
+# Resources web developer
+
 https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 
 ### Herramientas 
