@@ -18,6 +18,7 @@ https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 - https://imgur.com/
 
 ### Audio 
+- https://howlerjs.com/
 - https://freemusicarchive.org/
 - https://icons8.com/music/
 - https://samplefocus.com/
@@ -39,6 +40,7 @@ https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 - https://www.clipcanvas.com/free-footage
 - https://www.videezy.com/
 - https://www.vidsplay.com/
+- https://videojs.com/
 
 ### Iconos
 - https://fontawesome.com/
@@ -79,6 +81,14 @@ https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 ### Animate Js
 - [animejs](https://animejs.com/)
 - [waterpipe.js](https://dragdropsite.github.io/waterpipe.js/)
+
+### Graficas Js
+- https://www.chartjs.org/
+- https://threejs.org/
+- https://www.pixijs.com/
+
+### Presentaciones
+- https://revealjs.com/
 
 ### Java Online
 - [Java Online](https://www.jdoodle.com/online-java-compiler)
