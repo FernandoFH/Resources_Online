@@ -1,4 +1,4 @@
-# Resources web developer
+# Resources Web Developer
 
 https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 
