@@ -1,3 +1,19 @@
+## Programming Interview Study Plan
+
+
+#### Step 1 - Create a list of roles/companies that excite you
+#### Step 2 - Learn JavaScript Fundaments 
+#### Step 3 - Learn Data Structures & Algorithms
+#### Step 4 - Design Your Porfolio
+#### Step 5 - Practice Data Structures & Algorithms
+#### Step 6 - Practice System Design Questions
+#### Step 7 - Practice Mock Interviews
+#### Step 8 - Start applying for jobs
+#### Step 9 - Start Interviewing
+#### Step 10 - Select the best offer
+
+
+_________________________________________
 ## Build websites & Web Developer.
 
 #### 1 Learn HTML : 
