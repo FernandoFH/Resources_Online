@@ -1,5 +1,4 @@
-## Programming Interview Study Plan
-
+## Study Plan 
 
 #### Step 1 - Create a list of roles/companies that excite you
 #### Step 2 - Learn JavaScript Fundaments 
@@ -11,7 +10,6 @@
 #### Step 8 - Start applying for jobs
 #### Step 9 - Start Interviewing
 #### Step 10 - Select the best offer
-
 
 _________________________________________
 ## Build websites & Web Developer.
