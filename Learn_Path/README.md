@@ -55,6 +55,86 @@ _________________________________________
 
 ___
 
+### Matter
+* Flexbox
+* Cssgrid
+* SASS & LESS (PreProcesadores) 
+* Learn React & Redux
+* GraphQL
+* Grunt & Gulp
+* WebPack & Babel
+* Functional programming
+* Declarative vs Imperative 
+* Event-driven
+* TDD
+* Google Material Design
+* Server Sent envent (SSE)
+* Server-Side Langages
+* Server-Side Rendering
+
+* JavaScript Design Patterns (YAGNI, KISS, SOLID) 
+* Principles of Single Page Applications
+* Architecting Front-End Applications
+* Testing for Front-End Devs
+* High Performing Code in JS
+* Progressive Web Apps
+* Site Performance Optimization
+* Unit testing
+* Services Worked
+* Micro-service architecture
+* Agile Methodology
+* GPU parallel computing
+* HTTPS and RESTful APIs
+
+    * Arrow functions
+    * Closures
+    * Function composition
+    * The prototype chain
+    * Fetch
+    
+* TypeScript
+* PureScript
+
+- ReactJS
+	- Routes
+	- Navigation 
+	- Security
+	- Hooks
+	- Testing Library
+	- Next.js
+	- Redux
+	- Flux Architecture
+	- MobX
+	- SSR 
+- DevOps 
+	- Docker
+	- Kubernetes
+	- [Heroku](https://www.heroku.com/) (Backend Deploy)
+	- DigitalOcean 	
+	- AWS
+	- GCP 
+	- Azure
+	- Terraform
+	- GitLab CI/CD
+	- PaaS
+	- SaaS
+	- Nginx
+- BBDD
+	- MongoDB
+	- Redis
+	- ElasticSearch
+	- Postgres
+	- RDMS
+- dApps
+	- Ethereum
+	- Web3.js
+	- Truffle
+	- Oraculos
+	- Smart Contracts
+	- Developing test software
+	- Proof of concept and scaling it (PoA, BFT, Raft, Kafka)
+___
+
 [You Don't know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 
 [Eloquent JavaScript](http://eloquentjavascript.net/)
