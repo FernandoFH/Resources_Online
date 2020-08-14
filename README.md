@@ -1,7 +1,5 @@
 # Resources Web Developer
 
-https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
-
 ### Herramientas 
 - https://htmlcompressor.com/compressor/
 - http://www.json-generator.com/
