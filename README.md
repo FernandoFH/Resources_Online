@@ -90,8 +90,5 @@ https://blog.faztweb.com/2018/03/recursos-para-disenadores-y.html
 ### Presentaciones
 - https://revealjs.com/
 
-### Java Online
-- [Java Online](https://www.jdoodle.com/online-java-compiler)
-
 ### WordPress Themes
 - [colorlib](https://colorlib.com/wp/)
